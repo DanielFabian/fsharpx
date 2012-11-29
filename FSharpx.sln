@@ -28,6 +28,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{EFB3
 		samples\StmSample.fsx = samples\StmSample.fsx
 		samples\StockStream.fsx = samples\StockStream.fsx
 		samples\WebProxy.fsx = samples\WebProxy.fsx
+		samples\CombineSemantics.fsx = samples\CombineSemantics.fsx
 	EndProjectSection
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Santa", "samples\Santa\Santa.fsproj", "{41D22552-BAFB-47D5-B20A-D81E18C3C1E8}"
